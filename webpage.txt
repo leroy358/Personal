@@ -1,3 +1,7 @@
 https://blog.csdn.net/gangsijay888/article/details/81213811
 
 https://segmentfault.com/a/1190000011333724
+
+https://www.cnblogs.com/yyjie/p/7486951.html
+
+Redis，Mysql索引优化，常见的攻击原理及防御（XSS，CSRF，SQL注入），流行的框架
